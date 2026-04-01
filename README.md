@@ -1,4 +1,5 @@
 # How to Sign Up on Binance: From A-Z Newbie - Invest 2026
+<img width="2390" height="1792" alt="binance-2026" src="https://github.com/user-attachments/assets/17403794-a112-4966-8a50-d1c25a22f966" />
 
 With over 180 million users globally, the cryptocurrency market isn't just a trend anymore—it’s a financial evolution. At the heart of this movement is Binance, the world’s leading exchange and a massive ecosystem for anyone looking to dive into trading, passive income, or the world of NFTs.
 
@@ -9,6 +10,8 @@ If you’ve been sitting on the sidelines wondering how to get started safely, y
 ---
 
 ## Why Millions Choose Binance for Their Crypto Journey
+
+<img width="2983" height="1680" alt="cach-choi-binance-voz7" src="https://github.com/user-attachments/assets/294f8055-9e5e-484b-95e9-dc66a915db70" />
 
 Before we jump into the "how," let's talk about the "why." Binance isn't just a place to buy Bitcoin; it’s a comprehensive financial toolkit.
 
@@ -24,18 +27,24 @@ Before we jump into the "how," let's talk about the "why." Binance isn't just a 
 
 ### 1. Launch the Platform
 Head over to the  **[Official Binance website](https://accounts.binance.com/en/register?ref=59774590)** or download the **[Binance App](https://accounts.binance.com/en/register?ref=59774590)** on iOS/Android. 📱Look for the yellow **"Register"** button to kick things off.
+<img width="1963" height="1171" alt="image" src="https://github.com/user-attachments/assets/6f24a995-64b1-40e8-a9ec-ac1baec16400" />
 
 
 ### 2. Create Your Credentials
 You can sign up using your email or a mobile number.
 * **The Golden Rule of Passwords:** Create a unique password at least 8 characters long, mixing uppercase letters, numbers, and symbols.
+<img width="1902" height="768" alt="dang-ky-san-binance-2026-5" src="https://github.com/user-attachments/assets/730ce489-8af8-409b-a0fa-0adb7be0a8c4" />
+
 * **Pro Tip:** Never reuse a password from your social media or email accounts. Your crypto account deserves its own unique "key."
 
 ### 3. Quick Verification
 Binance will send a 6-digit verification code to your chosen email or phone. Simply enter it into the prompt to prove you're a human and own the contact method.
+<img width="2910" height="1650" alt="dang-ky-san-binance-2026-4" src="https://github.com/user-attachments/assets/7acd4e2b-2339-4c88-87f6-a685625dafcf" />
 
 ### 4. Hardening Your Security (2FA)
 Before you deposit a single cent, set up **Two-Factor Authentication (2FA)**. Using an app like Google Authenticator or a hardware key is significantly safer than SMS-based codes, which can be vulnerable to SIM-swapping.
+<img width="1924" height="1084" alt="2fa-binance" src="https://github.com/user-attachments/assets/7256677e-495d-4ea0-b0d0-1810697509c7" />
+
 * *Make sure to write down your backup recovery codes on physical paper and store them offline!*
 
 ### 5. Confirming Your Identity (KYC)
@@ -83,6 +92,6 @@ Yes! New users often have access to a "Task Center" where they can earn trading 
 
 The world of decentralized finance (DeFi) and digital ownership is just a few clicks away. By joining Binance, you’re not just opening an account; you’re gaining a front-row seat to the future of money.
 
-🚀🚀🚀**[Sign Up for Your Binance Account Today!](https://accounts.binance.com/en/register?ref=59774590)**
+🚀🚀🚀 **[Sign Up for Your Binance Account Today!](https://accounts.binance.com/en/register?ref=59774590)**
 
 Have you already made your first trade or tried out Binance Earn? Drop a comment below and let’s discuss which strategy is working best for you!
